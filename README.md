@@ -7,11 +7,7 @@ Thanks to hernos for helping with the code!
 
 How to use? :
 
-1. Download the file and click on the console application.sln file from inside the file.
-
-2. Then compile as x64 release.
-
-3. You can use it after compiling.
+1. Download the file and run "console application.exe" while in any room in the game called pro football online.
 
 --------------------------------------------------------------
 
