@@ -5,7 +5,7 @@ If you just want to use the cheat, it will be enough to download the "Pro Soccer
 --------------------------------------------------------------
 
 
-To see the direct codes, you can download the zip from this link and check the cheat codes here : https://dosya.co/0vxrur1hiolh/Console_Application_Codes.zip.html
+To see the direct codes, you can download the zip from this link and check the cheat codes here : https://dosya.co/3yc0av5i7esg/Yeni_WinRAR_ZIP_ar%C5%9Fivi.zip.html
 
 You can compile and use the code in visual studio.
 
