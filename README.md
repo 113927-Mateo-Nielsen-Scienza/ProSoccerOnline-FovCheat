@@ -1,4 +1,9 @@
 # ProSoccerOnline-FovCheat
+
+--------------------------------------------------------------
+If you just want to use the cheat, it will be enough to download the "Pro Soccer Online Fov Cheat.zip" file.
+--------------------------------------------------------------
+
 You can compile and use the code in visual studio.
 
 The code is written in c++
